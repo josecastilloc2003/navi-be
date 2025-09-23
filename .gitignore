@@ -1,4 +1,2 @@
-*.env
-nodemon.json
 notes.md
 node_modules
