@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "ServiWebJoeyBanana",
+    "JWT_KEY": "secretsecret",
+    "PORT": 3001,
+    "MAPBOX_TOKEN": "sk.eyJ1Ijoic2ViYXNmYXJhaiIsImEiOiJjbWV4YXgxNjAwd2tyMmxvb3BtMThpcGg0In0.gowGQOufjlBFQOdjhPVQ6w"
+  }
+}
